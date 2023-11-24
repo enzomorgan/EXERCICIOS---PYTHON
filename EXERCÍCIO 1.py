@@ -2,7 +2,8 @@
 
 # -*- coding: utf-8 -*-
 
-usuario = 17
+print("Informe a idade: ")
+usuario = int(input(''))
 
 if usuario < 18:
     print("ele é menor de idade!")
